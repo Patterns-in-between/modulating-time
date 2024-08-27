@@ -1,5 +1,7 @@
 # PIFCAMP 2024 : Modulating Time
 
+## Algorithmic Branch Music?
+
 As part of the annual [PIFcamp festival](https://pif.camp/sl/) in Soča Valley, Slovenia, live-coders [Alex McLean](https://slab.org/) and [Lizzie Wilson](https://lwlsn.github.io/) and designer/educator in the fields of e-Textiles, Interaction Design and Physical Computing [Mika Satomi](https://www.nerding.at/cv/) came together to continue some work they had begun as part of the ["Patterns InBetween Intelligences" project](https://www.stnds.de/aktuelles/link_ki). 
 
 
